@@ -1,6 +1,10 @@
 # CleanYourFolderSystem
 
 [EN]The downloads folder on your computer is always kept clean. 
+
+
+
+
 [TR]Bilgisayarınıza indirdiğiniz her şeyi klasörler ve indirilenler(downloads) klasörünüz sürekli bir şekilde temiz tutulur.
 
 
