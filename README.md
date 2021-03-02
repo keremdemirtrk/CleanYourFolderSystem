@@ -32,4 +32,13 @@ chmod 777 clean.sh
 
 #ToDo
 
--Arka planda çalışan bir hale getirilecek.
+- Arka planda çalışan bir hale getirilecek.
+
+
+
+- Farklı klasörleri tarayabilir hale getirelece.
+
+
+
+
+- Dosyalama sistemi özelleştirme seçenekleri getirelecek.
