@@ -23,6 +23,9 @@ This script goes to your desktop and creates a folder named main here. It create
 #Usage
 
 chmod 777 clean.sh
+
+
+
 ./clean.sh
 
 
