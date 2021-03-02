@@ -24,12 +24,9 @@ chmod +x clean.sh
 ```
 Run script
 ```
-./clean.sh
+./clean.sh &
 ```
 # ToDo
-
-- Arka planda çalışan bir hale getirilecek.
-
 
 
 - Farklı klasörleri tarayabilir hale getirelecek.
