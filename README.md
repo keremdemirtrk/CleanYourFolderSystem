@@ -16,3 +16,17 @@ Sizin yerinize Masaüstünüze gider, bir main klasörü ve içerisine döküman
 #HowItWorks?
 
 This script goes to your desktop and creates a folder named main here. It creates customizable folders such as documents and photos inside this folder. It periodically scans the downloads folder and moves your files to this special filing system. 
+
+
+
+
+#Usage
+
+chmod 777 clean.sh
+./clean.sh
+
+
+
+#ToDo
+
+-Arka planda çalışan bir hale getirilecek.
