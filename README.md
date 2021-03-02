@@ -1,6 +1,6 @@
 # CleanYourFolderSystem
 
-[EN]The downloads folder on your computer is always kept clean. 
+[EN]The downloads folder on your computer is always kept clean.
 
 
 
@@ -17,19 +17,15 @@ Sizin yerinize Masaüstünüze gider, bir main klasörü ve içerisine döküman
 
 This script goes to your desktop and creates a folder named main here. It creates customizable folders such as documents and photos inside this folder. It periodically scans the downloads folder and moves your files to this special filing system. 
 
-
-
-
 # Usage
-
-chmod 777 clean.sh
-
-
-
+Add execute permission
+```
+chmod +x clean.sh
+```
+Run script
+```
 ./clean.sh
-
-
-
+```
 # ToDo
 
 - Arka planda çalışan bir hale getirilecek.
